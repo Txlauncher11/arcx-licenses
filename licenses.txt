@@ -1,0 +1,6 @@
+# ArcKernel X — License Database
+# Format: KEY | USER:x | HWID:x | EXP:YYYY-MM-DD | STATUS:ACTIVE/BLOCKED | PC:x
+# Upload this file to your GitHub repo as licenses.txt
+# The raw URL goes into license.rs → LICENSES_RAW_URL
+
+ARCX-DEMO-0001 | USER:UNBOUND | HWID:UNBOUND | EXP:2027-12-31 | STATUS:ACTIVE | PC:UNBOUND
